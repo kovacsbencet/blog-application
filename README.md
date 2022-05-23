@@ -1,1 +1,1 @@
-# ecommerce-project
+MERN Stack - Ecommerce Project
